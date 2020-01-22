@@ -1,5 +1,5 @@
-<style>
-  #mydiv {
+/* Stylesheet by Christopher Pierson, 2020 */
+#mydiv {
     background-color: yellow;
-  }
-</style>
+    font-size: 20pt;
+}
